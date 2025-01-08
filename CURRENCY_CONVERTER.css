@@ -78,6 +78,12 @@
             border: 1px solid #ccc;
             max-width: 18rem;
         }
+@media (max-width:375px) {
+            select{
+                max-width: 14rem;
+            }
+            
+        }
 
         .arrow{
             width: 5%;
